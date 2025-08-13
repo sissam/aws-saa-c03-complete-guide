@@ -1,5 +1,7 @@
 # aws-saa-c03-complete-guide
 aws-saa-c03-complete-guide
+
+'''
 graph TD
     subgraph "EC2 Instances"
         A[On-Demand]
@@ -26,3 +28,4 @@ graph TD
     F -- "Managed Kubernetes" --> F
     G -- "Right-sizing Recommendations" --> A
     H -- "Elastic Workloads" --> A
+'''
